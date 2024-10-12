@@ -1,5 +1,5 @@
 ## Blender Feature Sets
-This repository contains a collection of Blender scripts developed as part of pre-internship tasks for qualification when applying for an internship at OpenFOAM GUI. These scripts introduce custom operators and UI panels for generating 3D objects and manipulating geometry within Blender's 3D View.
+This repository contains a collection of Blender scripts developed as part of pre-internship tasks for qualification when applying for an internship at FOSSEE OpenFOAM GUI Team,IITB. These scripts introduce custom operators and UI panels for generating 3D objects and manipulating geometry within Blender's 3D View.
 
 ### Feature Set 01: Generate and Manage Cubes
 This feature allows users to generate a grid of cubes based on a composite number input. It includes options to:
